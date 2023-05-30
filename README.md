@@ -1,6 +1,6 @@
 # ATM Project
 
-This project is an ATM (Automated Teller Machine)  simulation implemented in C++. It is the project of (introduction to programming course CSE 021)  . It provides two main sections: Cardless Services and Card Services. The Cardless Services section allows users to perform transactions using their credentials stored in a wallet file within the program directory. The Card Services section simulates a registration system where users need to activate their card before accessing various banking operations. All card-related information is stored in a database file.
+This project is an ATM (Automated Teller Machine)  simulation implemented in C. It is the project of (introduction to programming course CSE 021)  . It provides two main sections: Cardless Services and Card Services. The Cardless Services section allows users to perform transactions using their credentials stored in a wallet file within the program directory. The Card Services section simulates a registration system where users need to activate their card before accessing various banking operations. All card-related information is stored in a database file.
 
 ## Features
 
